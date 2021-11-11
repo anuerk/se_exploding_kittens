@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-11T10:01:23.976Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.44" etag="_-O47jRS3s9JzrCYcqQT" version="15.7.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-11-11T10:04:44.177Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.44" etag="49EDvtz54DwwSiW_Z1wC" version="15.7.2" type="github" pages="2">
   <diagram id="6F1woQdianH5xqDm68fj" name="Use Case Allgemein">
     <mxGraphModel dx="782" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,19 +8,19 @@
           <mxGeometry x="210" y="200" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LaAg7UQYB_QFaEPeOb5D-3" value="Exploding Kittens" style="shape=rect;html=1;verticalAlign=top;fontStyle=1;whiteSpace=wrap;align=center;" parent="LaAg7UQYB_QFaEPeOb5D-1" vertex="1">
-          <mxGeometry x="310" y="40" width="500" height="430" as="geometry" />
+          <mxGeometry x="290" y="40" width="420" height="430" as="geometry" />
         </mxCell>
         <mxCell id="LaAg7UQYB_QFaEPeOb5D-4" value="Spielerkonto anlegen" style="ellipse;whiteSpace=wrap;html=1;" parent="LaAg7UQYB_QFaEPeOb5D-1" vertex="1">
-          <mxGeometry x="390" y="70" width="140" height="70" as="geometry" />
+          <mxGeometry x="330" y="80" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="LaAg7UQYB_QFaEPeOb5D-5" value="Im System einloggen" style="ellipse;whiteSpace=wrap;html=1;" parent="LaAg7UQYB_QFaEPeOb5D-1" vertex="1">
-          <mxGeometry x="390" y="160" width="140" height="70" as="geometry" />
+          <mxGeometry x="330" y="160" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="LaAg7UQYB_QFaEPeOb5D-7" value="Spiel starten" style="ellipse;whiteSpace=wrap;html=1;" parent="LaAg7UQYB_QFaEPeOb5D-1" vertex="1">
-          <mxGeometry x="390" y="260" width="140" height="70" as="geometry" />
+          <mxGeometry x="330" y="250" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="LaAg7UQYB_QFaEPeOb5D-8" value="Zug machen" style="ellipse;whiteSpace=wrap;html=1;" parent="LaAg7UQYB_QFaEPeOb5D-1" vertex="1">
-          <mxGeometry x="390" y="360" width="140" height="70" as="geometry" />
+          <mxGeometry x="330" y="350" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="LaAg7UQYB_QFaEPeOb5D-9" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="LaAg7UQYB_QFaEPeOb5D-1" target="LaAg7UQYB_QFaEPeOb5D-4" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -34,7 +34,7 @@
             <mxPoint x="414" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LaAg7UQYB_QFaEPeOb5D-11" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;" parent="LaAg7UQYB_QFaEPeOb5D-1" edge="1">
+        <mxCell id="LaAg7UQYB_QFaEPeOb5D-11" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="LaAg7UQYB_QFaEPeOb5D-1" edge="1" target="LaAg7UQYB_QFaEPeOb5D-7">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="260" y="260" as="sourcePoint" />
             <mxPoint x="390" y="295" as="targetPoint" />
@@ -47,22 +47,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LaAg7UQYB_QFaEPeOb5D-13" value="&lt;br&gt;&lt;br&gt;Spieler spielt Angriff oder Hops" style="html=1;shape=mxgraph.sysml.useCaseExtPt;whiteSpace=wrap;align=center;" parent="LaAg7UQYB_QFaEPeOb5D-1" vertex="1">
-          <mxGeometry x="610" y="320" width="150" height="60" as="geometry" />
+          <mxGeometry x="530" y="290" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LaAg7UQYB_QFaEPeOb5D-14" value="Karte ziehen" style="resizable=0;html=1;verticalAlign=middle;align=center;labelBackgroundColor=none;fontStyle=1;" parent="LaAg7UQYB_QFaEPeOb5D-13" connectable="0" vertex="1">
           <mxGeometry x="75" y="12.75" as="geometry">
             <mxPoint x="-3" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LaAg7UQYB_QFaEPeOb5D-15" value=",&lt;br&gt;Spieler will keine Karte spielen" style="html=1;shape=mxgraph.sysml.useCaseExtPt;whiteSpace=wrap;align=center;" parent="LaAg7UQYB_QFaEPeOb5D-1" vertex="1">
-          <mxGeometry x="610" y="390" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LaAg7UQYB_QFaEPeOb5D-16" value="Karten Spielen" style="resizable=0;html=1;verticalAlign=middle;align=center;labelBackgroundColor=none;fontStyle=1;" parent="LaAg7UQYB_QFaEPeOb5D-15" connectable="0" vertex="1">
-          <mxGeometry x="75" y="12.75" as="geometry">
-            <mxPoint x="2" y="-2" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zrvLJ-EqaouV1MmhGX9n-0" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" edge="1" parent="LaAg7UQYB_QFaEPeOb5D-1">
+        <mxCell id="zrvLJ-EqaouV1MmhGX9n-0" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=none;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="LaAg7UQYB_QFaEPeOb5D-1" source="LaAg7UQYB_QFaEPeOb5D-15">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="530" y="400" as="sourcePoint" />
             <mxPoint x="610" y="420" as="targetPoint" />
@@ -72,6 +64,20 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="470" y="260" as="sourcePoint" />
             <mxPoint x="630" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LaAg7UQYB_QFaEPeOb5D-15" value=",&lt;br&gt;Spieler will keine Karte spielen" style="html=1;shape=mxgraph.sysml.useCaseExtPt;whiteSpace=wrap;align=center;" parent="LaAg7UQYB_QFaEPeOb5D-1" vertex="1">
+          <mxGeometry x="530" y="380" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LaAg7UQYB_QFaEPeOb5D-16" value="Karten Spielen" style="resizable=0;html=1;verticalAlign=middle;align=center;labelBackgroundColor=none;fontStyle=1;" parent="LaAg7UQYB_QFaEPeOb5D-15" connectable="0" vertex="1">
+          <mxGeometry x="75" y="12.75" as="geometry">
+            <mxPoint x="2" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AcK0d--LfDTE7kpXpVmj-0" value="" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="LaAg7UQYB_QFaEPeOb5D-1" source="LaAg7UQYB_QFaEPeOb5D-8" target="LaAg7UQYB_QFaEPeOb5D-15">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="470" y="385" as="sourcePoint" />
+            <mxPoint x="610" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
