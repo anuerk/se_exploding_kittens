@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-11T10:42:42.320Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.44" etag="WooWW4b0csQUSEIt7thZ" version="15.7.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-11-11T10:43:23.224Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.44" etag="DVOeCEIdfNrJcBKN0xP1" version="15.7.2" type="github" pages="2">
   <diagram id="6F1woQdianH5xqDm68fj" name="Use Case Allgemein">
     <mxGraphModel dx="782" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -295,15 +295,17 @@
           <mxGeometry x="324.38" y="380" width="132.37" height="45" as="geometry" />
         </mxCell>
         <mxCell id="gsuQyHT1XGzZIKAlHM_6-18" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="Notwp4Q2PA6i_bN2rNuf-1" source="gsuQyHT1XGzZIKAlHM_6-8" target="Notwp4Q2PA6i_bN2rNuf-6">
-          <mxGeometry width="160" relative="1" as="geometry">
+          <mxGeometry x="-0.5567" y="13" width="160" relative="1" as="geometry">
             <mxPoint x="290" y="380" as="sourcePoint" />
             <mxPoint x="460" y="370" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gsuQyHT1XGzZIKAlHM_6-25" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Notwp4Q2PA6i_bN2rNuf-1" source="gsuQyHT1XGzZIKAlHM_6-8" target="gsuQyHT1XGzZIKAlHM_6-12">
-          <mxGeometry width="160" relative="1" as="geometry">
+          <mxGeometry x="-0.18" y="-21" width="160" relative="1" as="geometry">
             <mxPoint x="296.75" y="429" as="sourcePoint" />
             <mxPoint x="456.75" y="429" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
