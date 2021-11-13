@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-13T12:34:40.997Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.44" etag="ExopBTPPDRLtdKtba_B1" version="15.7.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-11-13T15:58:04.647Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.44" etag="05Uvef7_cIAM0gS5HVqa" version="15.7.2" type="github" pages="2">
   <diagram id="6F1woQdianH5xqDm68fj" name="Use Case Allgemein">
-    <mxGraphModel dx="782" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="LaAg7UQYB_QFaEPeOb5D-0" />
         <mxCell id="LaAg7UQYB_QFaEPeOb5D-1" parent="LaAg7UQYB_QFaEPeOb5D-0" />
@@ -74,17 +74,17 @@
             <mxPoint x="2" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AcK0d--LfDTE7kpXpVmj-0" value="" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="LaAg7UQYB_QFaEPeOb5D-1" source="LaAg7UQYB_QFaEPeOb5D-8" target="LaAg7UQYB_QFaEPeOb5D-15">
+        <mxCell id="BDkslX-1xsg9H2H8B6L9-0" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="LaAg7UQYB_QFaEPeOb5D-1" source="LaAg7UQYB_QFaEPeOb5D-8" target="LaAg7UQYB_QFaEPeOb5D-15">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="470" y="385" as="sourcePoint" />
-            <mxPoint x="610" y="420" as="targetPoint" />
+            <mxPoint x="510" y="180" as="sourcePoint" />
+            <mxPoint x="670" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="RYIv15WG0DeL-ki6rHGi" name="Use Case Karteneffekte">
-    <mxGraphModel dx="1422" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Notwp4Q2PA6i_bN2rNuf-0" />
         <mxCell id="Notwp4Q2PA6i_bN2rNuf-1" parent="Notwp4Q2PA6i_bN2rNuf-0" />
