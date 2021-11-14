@@ -16,7 +16,10 @@ Here is the repository structure
 Diagrams are done in draw.io
 
 ## use case
-diagram can be displayed here: https://app.diagrams.net/#Hanuerk%2Fse_exploding_kittens%2Fmain%2Fuse_cases%2FExploding%20Kittens
+diagram can be displayed here: https://app.diagrams.net/#Hanuerk%2Fse_exploding_kittens%2Fmain%2Fuse_cases%2FExploding%20Kittens.drawio
 
 ## class diagram
-diagram can be displayed here: https://app.diagrams.net/#Hanuerk%2Fse_exploding_kittens%2Fmain%2Fuse_cases%2FExploding%20Kittens
+diagram can be displayed here: https://app.diagrams.net/?libs=general;uml#Hanuerk%2Fse_exploding_kittens%2Fmain%2Fclass_diagram%2Fdiagram%2Fworkspace%2Fclass_diagram
+
+## sequence diagramm 
+diagram can be displayed here: https://app.diagrams.net/?libs=general;uml#Hanuerk%2Fse_exploding_kittens%2Falex%2Fsequence_diagram%2Fdiagram%2Fworkspace%2Fsequence.drawio
