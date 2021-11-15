@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-14T12:10:33.445Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.44" etag="pXjjWetptsZDGq_rwBhy" version="15.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-15T08:27:26.747Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.44" etag="-k00mlb6-GFSBIR2emhu" version="15.7.2" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Spielerzug">
     <mxGraphModel dx="865" dy="1556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -124,7 +124,7 @@
         <mxCell id="b1PGiIxJD8vE4dlN63cI-17" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="2CA6974sQvlHss55F8z--38">
           <mxGeometry x="45" y="720" width="10" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="2CA6974sQvlHss55F8z--42" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;rounded=0;labelBackgroundColor=none;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+        <mxCell id="2CA6974sQvlHss55F8z--42" value="Spieler" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;rounded=0;labelBackgroundColor=none;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="70" y="55" width="20" height="1060" as="geometry" />
         </mxCell>
         <mxCell id="2CA6974sQvlHss55F8z--69" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="2CA6974sQvlHss55F8z--42">
