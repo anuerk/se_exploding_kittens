@@ -1,6 +1,9 @@
 # exploding kittens
 this will be a model for the card game exploding kittens.
 
+Link to trello board: 
+https://trello.com/b/9XOSA2vH/exploding-kittens
+
 Here is the repository structure
 
     .
