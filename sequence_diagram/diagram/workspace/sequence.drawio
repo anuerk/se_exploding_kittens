@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-15T12:39:40.936Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.53" etag="oR2Ak6Y1DUqd29-W-aiU" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-15T12:39:50.882Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.53" etag="ts-bhPOjkmcc0ETdbCAz" version="15.7.3" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Spielerzug">
     <mxGraphModel dx="1038" dy="1647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -132,7 +132,7 @@
         </mxCell>
         <mxCell id="2CA6974sQvlHss55F8z--61" value="" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="86.99666666666663" y="520" as="sourcePoint" />
+            <mxPoint x="80" y="520" as="sourcePoint" />
             <mxPoint x="277" y="520" as="targetPoint" />
             <Array as="points">
               <mxPoint x="177.33" y="520" />
